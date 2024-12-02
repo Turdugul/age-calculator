@@ -15,10 +15,9 @@ A responsive web application to calculate your exact age in years, months, and d
 - **Tailwind CSS**: For styling and responsive design.
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Turdugul/age-calculator.git
 
    [demo](https://age-calculator-brown-kappa.vercel.app/)
 
-   
